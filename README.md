@@ -9,6 +9,9 @@ Build a single self-contained HTML file. Canvas is **750×520px** with a **220px
 
 **Visual target:** GTA2 top-down pixel art. Study GTA2 screenshots before writing any code. Wide dark roads, chunky pixel vehicles, clear building interiors visible from above. Warm Stardew Valley interior aesthetic inside the buildings — large floor tiles, dark upper wall band with golden X-brace window panels, chunky wooden furniture with drop shadows.
 
+
+![Alt text](images/verviewCafe.png)
+
 ---
 
 ## Layout
