@@ -1,5 +1,4 @@
 # CAFÉ PROTEUS — Build Prompt & Spec
-> Paste this entire document into a new chat to build the project from scratch.
 
 ---
 
