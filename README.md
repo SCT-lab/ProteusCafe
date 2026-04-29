@@ -80,7 +80,9 @@ Walking NPCs move slowly. Seated NPCs stay fixed at their desk.
 | Car | 22×13px | 13×22px |
 | Bus | 40×14px | 14×40px |
 
-**Car anatomy:** body fill → darker roof panel inset 2px → white windscreen strip → 2×2px headlights front → 2×2px red taillights rear → 1px black outline → drop shadow offset +2+2
+**Car anatomy:** 
+
+body fill → darker roof panel inset 2px → white windscreen strip → 2×2px headlights front → 2×2px red taillights rear → 1px black outline → drop shadow offset +2+2
 ---
 
 ## Vehicles
