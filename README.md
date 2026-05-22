@@ -161,4 +161,8 @@ You are free to use this project for academic research. If you do so, please ref
 
 William Hurst, Cafe Proteus, Social Creative Technologies Lab, Wageningen University, 2026, https://github.com/SCT-lab/ProteusCafe
 
-<a href="https://www.wur.nl/en.htm"><img src="https://github.com/SCT-lab/DigiFungi/blob/main/images/Wur-logo.png" alt="WUR" width="100"></a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/sct-lab"><img src="https://github.com/SCT-lab/DigiFungi/blob/main/images/SCT-WUR.png" alt="SCT Lab" width="100"></a>
+  <a href="https://www.wur.nl/en.htm"><img src="https://github.com/SCT-lab/DigiFungi/blob/main/images/Wur-logo.png" alt="WUR" width="100"></a>
+</p>
