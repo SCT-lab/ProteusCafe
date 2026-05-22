@@ -155,3 +155,10 @@ For each agent:
 - Pedestrians never enter buildings — kerb strip only
 - NPCs never leave their assigned room
 - Speech bubbles clamp to canvas edges, never overflow
+
+## Usage and Citation
+You are free to use this project for academic research. If you do so, please reference the project as follows:
+
+William Hurst, Gert Kootstra, Cafe Proteus, Social Creative Technologies Lab, Wageningen University, 2026, https://github.com/SCT-lab/ProteusCafe
+
+<a href="https://www.wur.nl/en.htm"><img src="https://github.com/SCT-lab/DigiFungi/blob/main/images/Wur-logo.png" alt="WUR" width="100"></a>
